@@ -10,5 +10,6 @@
 <body>
     <h1>Laravel</h1>
     Home | <a href="{{url('/profile')}}">Profile</a>
+    <a href="{{url('/picture')}}">Picture</a>
 </body>
 </html>
